@@ -1,1 +1,1 @@
-{"version":2,"github":{"enabled":true}}
+{"version":2,"github":{"enabled":true},"routes":[{"src":"/","dest":"/cleaning-checkin.html"}]}
